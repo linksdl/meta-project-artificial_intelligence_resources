@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea
+/Forums(学术论坛)/
+/Notes(学习手册)/
+/Papers(学术论文)/
+/Notes(学习笔记)/
+/Reports(报告)/
