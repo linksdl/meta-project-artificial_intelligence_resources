@@ -46,6 +46,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -60,6 +61,7 @@
       <workItem from="1642030819233" duration="39000" />
       <workItem from="1642104178208" duration="24000" />
       <workItem from="1645447100666" duration="14000" />
+      <workItem from="1651312327350" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="documents">
       <created>1641946951475</created>
@@ -93,15 +95,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/books/深度学习入门之Pytorch/code-of-learn-deep-learning-with-pytorch" />
+    </ignored-roots>
     <MESSAGE value="documents" />
     <MESSAGE value="papers" />
     <option name="LAST_COMMIT_MESSAGE" value="papers" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="247" y="113" key="Vcs.Push.Dialog.v2" timestamp="1642030843353">
-      <screen x="52" y="25" width="1388" height="875" />
-    </state>
-    <state x="247" y="113" key="Vcs.Push.Dialog.v2/52.25.1388.875@52.25.1388.875" timestamp="1642030843353" />
-    <state x="248" y="113" key="Vcs.Push.Dialog.v2/53.25.1387.875@53.25.1387.875" timestamp="1641946953368" />
   </component>
 </project>
