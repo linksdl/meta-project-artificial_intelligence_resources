@@ -1,4 +1,5 @@
 ## Artificial Intelligence 
+- This project is for AI-tech learning
 - 本项目仅用于个人人工智能技术学习，通过整理，收集各处资源，方便查阅，不做商业用途。
 
 
