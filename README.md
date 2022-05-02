@@ -3,7 +3,6 @@
 - 本项目仅用于个人人工智能技术学习，通过整理，收集各处资源，方便查阅，不做商业用途。
 
 
-
 ## Table of Content(资源目录)
 - [Skills(技能要求)](#tree-skills)
 - [Websites(学习网站)](#websites)
